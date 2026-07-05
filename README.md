@@ -29,28 +29,6 @@ During this internship, I worked on practical data science tasks involving:
 - Scikit-learn
 - GitHub
 
-## 📂 Repository Structure
-
-```text
-CodeAlpha_DataScience/
-│
-├── Task_1/
-│   └── task_1_notebook.ipynb
-│
-├── Task_2/
-│   └── task_2_notebook.ipynb
-│
-├── Task_3/
-│   └── task_3_notebook.ipynb
-│
-├── Task_4/
-│   └── task_4_notebook.ipynb
-│
-├── README.md
-└── requirements.txt
-```
-
-> Note: You can rename the notebook files according to your actual task names.
 
 ---
 
